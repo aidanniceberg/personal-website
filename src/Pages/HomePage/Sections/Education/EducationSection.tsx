@@ -34,7 +34,7 @@ function Education() {
         <Stack>
           <HStack gap={2} minWidth={150} align="start">
             <IoTimerOutline size={24} />
-            <Text>Sept 2021 to May 2025</Text>
+            <Text>Sept 2021 - May 2025</Text>
           </HStack>
           <HStack gap={2} minWidth={75} align="start">
             <IoLocationOutline size={24} />
@@ -42,7 +42,7 @@ function Education() {
           </HStack>
           <HStack gap={2} minWidth={75} align="start">
             <IoStatsChartOutline size={24} />
-            <Text>3.9 / 4.0</Text>
+            <Text>Summa Cum Laude</Text>
           </HStack>
         </Stack>
         <HStack gap={2} minWidth={150} align="start">
@@ -52,7 +52,7 @@ function Education() {
           <Stack gap={0}>
             <Text>Object Oriented Design</Text>
             <Text>Algorithms & Data</Text>
-            <Text>Machine Learning 1</Text>
+            <Text>Machine Learning 1 & 2</Text>
             <Transcript />
           </Stack>
         </HStack>

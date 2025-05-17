@@ -10,10 +10,9 @@ function HomePage() {
         <Stack gap={4}>
           <Heading size="3xl">Aidan Niceberg</Heading>
           <Text>
-            I am a senior at Northeastern University studying computer science
-            with a concentration in artificial intelligence. I have a year of
-            professional experience in software development, split between
-            co-ops at WHOOP and Wayfair. I am passionate about all things
+            I am a Northeastern University graduate with a BS in computer science.
+            I have a year of professional experience in software development, split
+            between co-ops at WHOOP and Wayfair. I am passionate about all things
             software, particularly backend microservices. I love helping people
             by enhancing their online experience, especially at scale.
           </Text>

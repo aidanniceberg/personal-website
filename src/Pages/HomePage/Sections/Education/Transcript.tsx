@@ -60,6 +60,15 @@ const semesters = [
       { title: "Information Visualization for Business", grade: "A" },
     ],
   },
+  {
+    semester: "Spring 2025",
+    classes: [
+      { title: "Natural Language Processing", grade: "A" },
+      { title: "Machine Learning 2", grade: "A" },
+      { title: "Data Mining for Business", grade: "A" },
+      { title: "Modeling for Business Analytics", grade: "A" },
+    ],
+  },
 ];
 
 function Transcript() {
