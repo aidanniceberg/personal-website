@@ -7,6 +7,14 @@ function ExperienceSection() {
     <HomePageSection title="Experience" id="experience">
       <Stack>
         <Experience
+          company="Vanta"
+          role="Software Engineer"
+          thumbnail="/vanta.jpeg"
+          description="Building on the Personnel team."
+          timeline="Aug 2025 - Present"
+          location="New York, NY"
+        />
+        <Experience
           company="WHOOP"
           role="Software Engineer Co-op"
           thumbnail="/whoop.jpg"

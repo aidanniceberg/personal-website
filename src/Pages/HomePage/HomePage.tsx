@@ -10,11 +10,11 @@ function HomePage() {
         <Stack gap={4}>
           <Heading size="3xl">Aidan Niceberg</Heading>
           <Text>
-            I am a Northeastern University graduate with a BS in computer science.
-            I have a year of professional experience in software development, split
-            between co-ops at WHOOP and Wayfair. I am passionate about all things
-            software, particularly backend microservices. I love helping people
-            by enhancing their online experience, especially at scale.
+            I am a software engineer based in New York City with over a year of professional experience.
+            Having recently graduated from Northeastern University with a BS in computer science,
+            I am now settled into my first full-time role as an engineer at Vanta!
+            I am passionate about all things software, particularly backend services.
+            I love helping people by enhancing their online experience, especially at scale.
           </Text>
         </Stack>
         <Image
@@ -24,9 +24,9 @@ function HomePage() {
           objectFit="contain"
         />
       </Flex>
-      <EducationSection />
       <ExperienceSection />
       <ProjectsSection />
+      <EducationSection />
     </Stack>
   );
 }
